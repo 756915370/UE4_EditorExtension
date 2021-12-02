@@ -1,0 +1,18 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "4.26",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "EditorExtension",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		},
+		{
+			"Name": "EditorExtensionEditor",
+			"Type": "Editor",
+			"LoadingPhase": "PostDefault"
+		}
+	]
+}

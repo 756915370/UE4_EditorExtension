@@ -10,3 +10,12 @@ You only need to Inheritance “**UMenuItem**“ ,then registered path on "**Ini
 
 实现原理讲解：
 [【UE·Editor篇】做一个超好用的菜单栏扩展框架](https://zhuanlan.zhihu.com/p/441017278)
+***
+### 学习资料
+- [一文搞懂StaticClass、GetClass和ClassDefaultObject](https://zhuanlan.zhihu.com/p/380809095)
+- [编辑器扩展：自定义菜单栏](http://supervj.top/2021/08/09/%E7%BC%96%E8%BE%91%E5%99%A8%E6%89%A9%E5%B1%95%EF%BC%9A%E8%87%AA%E5%AE%9A%E4%B9%89%E8%8F%9C%E5%8D%95%E6%A0%8F/)
+- [Creating an Editor Module](https://michaeljcole.github.io/wiki.unrealengine.com/Creating_an_Editor_Module/)
+- [UE4 插件扩展引擎工具栏](https://www.cnblogs.com/jqm304775992/p/8996470.html)
+- [UE4 编辑器扩展 优雅地扩展菜单栏](https://zhuanlan.zhihu.com/p/432072854)
+- [UE4.26 几种编辑器扩展方法](https://zhuanlan.zhihu.com/p/380399264)
+- [高级编辑器扩展合集（自定义布局、自定义Filter、自定义预览窗口等）](https://blog.csdn.net/u013412391/category_10839272.html)
